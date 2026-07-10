@@ -2508,6 +2508,23 @@
         "num_settings": 28
     },
     {
+        "author": "Folke Lemaitre",
+        "file": "themes/solarized_osaka_dark.conf",
+        "is_dark": true,
+        "license": "MIT",
+        "name": "Solarized Osaka",
+        "num_settings": 31,
+        "upstream": "https://github.com/craftzdog/solarized-osaka.nvim/raw/main/extras/kitty/solarized_osaka_dark.conf"
+    },
+    {
+        "author": "Folke Lemaitre",
+        "file": "themes/solarized_osaka_light.conf",
+        "license": "MIT",
+        "name": "Solarized Osaka Light",
+        "num_settings": 31,
+        "upstream": "https://github.com/craftzdog/solarized-osaka.nvim/raw/main/extras/kitty/solarized_osaka_light.conf"
+    },
+    {
         "file": "themes/Solarized8_Dark.conf",
         "is_dark": true,
         "name": "Solarized8 Dark",
