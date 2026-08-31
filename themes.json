@@ -2254,6 +2254,13 @@
         "num_settings": 25
     },
     {
+        "file": "themes/Ryoccino.conf",
+        "is_dark": true,
+        "name": "Ryoccino",
+        "num_settings": 37,
+        "upstream": "https://github.com/SleepingSyalis/ryoccino"
+    },
+    {
         "author": "PandaCatPlayz",
         "blurb": "A custom kitty dark theme loosely using the Endesga 32 palette",
         "file": "themes/Sakura_Night.conf",
